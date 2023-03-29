@@ -1,6 +1,6 @@
 # oop programing notes 1
 
-OOP is cool
+OOP is niceeee
 
 ''' python
 
@@ -13,6 +13,8 @@ class Person:
         return f'Person object called {self.name}'
  
 
-
-
 '''
+
+adding mroe notes !!!
+from random import choice
+print(choice('Banana', 'MOnkey',"I love bnanada', ':)')
